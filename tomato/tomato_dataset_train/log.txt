@@ -1,0 +1,22 @@
+{
+    "BlenderNeRF Version": "5.0.0",
+    "Date and Time": "02/06/2024 22:52:43",
+    "Train": true,
+    "Test": true,
+    "AABB": 16,
+    "Render Frames": true,
+    "File Format": "NeRF",
+    "Save Path": "C:\\Users\\user-pc\\Downloads\\blend.zip37ff6f01-2cbb-4806-bcf9-eb8b55dd9c77\\",
+    "Method": "COS",
+    "Camera": "BlenderNeRF Camera",
+    "Location": "[0.0, 0.0, 10.0]",
+    "Rotation": "[0.0, 0.0, 0.0]",
+    "Scale": "[1.0, 1.0, 1.0]",
+    "Radius": 20.0,
+    "Lens": "25.0 mm",
+    "Seed": 2,
+    "Frames": 100,
+    "Upper Views": false,
+    "Outwards": false,
+    "Dataset Name": "tomato_dataset_train"
+}
