@@ -8,31 +8,31 @@ This repository contains an implementation of a **Neural Radiance Field (NeRF)**
 
 ## 🚀 Project Highlights
 
-- ✅ Implements a full NeRF pipeline using PyTorch
-- 📸 Renders photo-realistic novel views from sparse input images
-- 📦 Supports training and testing on the Blender synthetic dataset
-- 🧪 Includes tools for visualization and model evaluation
-- 🧱 Modular structure for easy experimentation with model components
+- ✅ Implements a full NeRF pipeline using PyTorch  
+- 📸 Renders photo-realistic novel views from sparse input images  
+- 📦 Supports training and testing on the Blender synthetic dataset  
+- 🧪 Includes tools for visualization and model evaluation  
+- 🧱 Modular structure for easy experimentation with model components  
 
 ---
 
 ## 🧰 Technologies Used
 
-- Python 3.12
-- PyTorch
-- NumPy
-- Matplotlib
-- Blender Dataset (from original NeRF paper)
+- Python 3.12  
+- PyTorch  
+- NumPy  
+- Matplotlib  
+- Blender Dataset (from original NeRF paper)  
 
 ---
 
 ## 📁 File Overview
 
 - `NERF_Blender.ipynb` – Main Jupyter Notebook containing:
-  - Data loading and preprocessing
-  - Model definition and training loop
-  - Ray sampling and volume rendering logic
-  - Visualizations of rendered outputs and loss curves
+  - Data loading and preprocessing  
+  - Model definition and training loop  
+  - Ray sampling and volume rendering logic  
+  - Visualizations of rendered outputs and loss curves  
 
 ---
 
@@ -40,9 +40,9 @@ This repository contains an implementation of a **Neural Radiance Field (NeRF)**
 
 This project demonstrates:
 
-- **Mathematical rigor**: From positional encoding to volumetric rendering equations.
-- **Engineering practicality**: Integration of deep learning models with 3D vision data.
-- **Research curiosity**: Builds upon seminal NeRF work and opens possibilities for robotics, AR/VR, and simulation.
+- **Mathematical rigor**: From positional encoding to volumetric rendering equations.  
+- **Engineering practicality**: Integration of deep learning models with 3D vision data.  
+- **Research curiosity**: Builds upon seminal NeRF work and opens possibilities for robotics, AR/VR, and simulation.  
 
 Whether you're an engineer, scientist, or recruiter, this project reflects a strong foundation in **ML engineering**, **computer vision**, and **autonomous systems**.
 
@@ -50,24 +50,15 @@ Whether you're an engineer, scientist, or recruiter, this project reflects a str
 
 ## ▶️ Running the Code
 
-<pre>'''bash
-1. Clone the repository:
+```bash
+# 1. Clone the repository
+git clone https://github.com/<your-username>/NeRF_Blender_Project.git
+cd NeRF_Blender_Project
 
-   git clone https://github.com/<your-username>/NeRF_Blender_Project.git
-   cd NeRF_Blender_Project
-
-
-2. Install dependencies:
-
+# 2. Install dependencies
 pip install -r requirements.txt
 
-
-3. Open the notebook:
-
-
+# 3. Open the notebook
 jupyter notebook NERF_Blender.ipynb
 
-
-
-4. Follow the instructions in each cell to train and test the model.
-'''<\pre>
+# 4. Follow the instructions in each cell to train and test the model
