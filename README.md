@@ -50,24 +50,26 @@ Whether you're an engineer, scientist, or recruiter, this project reflects a str
 
 ## ▶️ Running the Code
 
+<pre>
+  '''bash
 1. Clone the repository:
-   '''bash
+
    git clone https://github.com/<your-username>/NeRF_Blender_Project.git
    cd NeRF_Blender_Project
-'''
+
 
 2. Install dependencies:
-'''base
+
 pip install -r requirements.txt
-'''
+
 
 3. Open the notebook:
 
-<pre>
-'''bash
+
 jupyter notebook NERF_Blender.ipynb
-'''
-<\pre>
+
+
 
 4. Follow the instructions in each cell to train and test the model.
-
+'''
+<\pre>
