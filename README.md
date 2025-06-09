@@ -63,9 +63,11 @@ pip install -r requirements.txt
 
 3. Open the notebook:
 
+<pre>
 '''bash
 jupyter notebook NERF_Blender.ipynb
 '''
+<\pre>
 
 4. Follow the instructions in each cell to train and test the model.
 
