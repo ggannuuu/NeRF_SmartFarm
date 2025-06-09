@@ -18,7 +18,7 @@ This repository contains an implementation of a **Neural Radiance Field (NeRF)**
 
 ## 🧰 Technologies Used
 
-* The model training and image generation were done in Google Colab
+**The model training and image generation were done in Google Colab **
 
 - Python 3.12  
 - PyTorch  
