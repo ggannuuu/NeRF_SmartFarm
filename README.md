@@ -50,8 +50,7 @@ Whether you're an engineer, scientist, or recruiter, this project reflects a str
 
 ## ▶️ Running the Code
 
-<pre>
-  '''bash
+<pre>'''bash
 1. Clone the repository:
 
    git clone https://github.com/<your-username>/NeRF_Blender_Project.git
@@ -71,5 +70,4 @@ jupyter notebook NERF_Blender.ipynb
 
 
 4. Follow the instructions in each cell to train and test the model.
-'''
-<\pre>
+'''<\pre>
