@@ -54,7 +54,7 @@ Whether you're an engineer, scientist, or recruiter, this project reflects a str
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/NeRF_Blender_Project.git
+git clone https://github.com/ggannuuu/NeRF_SmartFarm.git
 cd NeRF_Blender_Project
 
 # 2. Install dependencies
